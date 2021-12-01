@@ -6,5 +6,7 @@
 
 module.exports = {
   siteName: 'blog',
-  plugins: []
+  plugins: [],
+  siteUrl: 'https://great123456.github.io',
+  pathPrefix: '/blog'
 }

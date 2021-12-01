@@ -21,7 +21,7 @@
                 <div class="post-preview">
                     <g-link to="/post/6">
                       <h2 class="post-title">苹果电脑为什么要换 CPU：Intel 与 ARM 的战争</h2>
-                      <h3 class="post-subtitle">更换 CPU 架构的好处</h3>
+                      <h3 class="post-subtitle">更换CPU架构的好处</h3>
                     </g-link>
                     <p class="post-meta">
                       2030-10-30
